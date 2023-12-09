@@ -4,9 +4,14 @@ Passionate computer scientist specialized in linux, cloud technologies, infrastr
 
 ## Featured Repositories and Projects
 
-### Linux Systems Reference and Bash Scripting
-Explore my collection of references and Bash scripting techniques for Linux systems.
+### Reference Material
+
+#### Linux Systems Reference and Bash Scripting
+Explore my collection of Linux systems references and Bash scripting techniques.
 - [sysadmin-reference](https://github.com/caetanoct/sysadmin-reference)
+
+#### Kafka
+- [kafka-reference](https://github.com/caetanoct/kafka-reference)
 
 ### Cloud Technologies
 

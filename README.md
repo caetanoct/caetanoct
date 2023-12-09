@@ -1,16 +1,41 @@
-### Hi there 👋
+# Welcome to my GitHub Profile!
 
-<!--
-**caetanoct/caetanoct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate computer scientist specialized in linux, cloud technologies, infrastructure, and system administration. Committed to optimizing, securing, and scaling digital ecosystems through innovative solutions.
 
-Here are some ideas to get you started:
+## Featured Repositories and Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linux Systems Reference and Bash Scripting
+Explore my collection of references and Bash scripting techniques for Linux systems.
+- [sysadmin-reference](https://github.com/caetanoct/sysadmin-reference)
+
+### Cloud Technologies
+
+#### IaC Kafka Cluster
+Deploy a Kafka Cluster using Infrastructure as Code (IaC) with Ansible, Terraform, and Google Cloud Platform.
+- [kafka-cluster-iac](https://github.com/caetanoct/kafka-cluster-iac)
+
+#### Kubernetes MariaDB Cluster
+Set up a MariaDB cluster with replication and high availability on Kubernetes.
+- [mariadb-cluster](https://github.com/caetanoct/mariadb-cluster)
+
+### AI
+
+A project using Planning Domain Definition Language (PDDL).
+- [planning-domain-definition-language](https://github.com/caetanoct/planning-domain-definition-language)
+
+### Blockchain
+
+Tools and resources for monitoring in ethereum blockchain network.
+- [blockchain-monitoring](https://github.com/caetanoct/blockchain-monitoring)
+
+### Web Development
+
+Check out my web development project using CSS, Javascript, Node.js and HTML.
+
+- [web-programming-project](https://github.com/caetanoct/web-programming-project)
+
+### Distributed Computing 
+
+Explore projects related to distributed computing.
+
+- [distributed-computing](https://github.com/caetanoct/distributed-computing)

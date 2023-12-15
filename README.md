@@ -9,7 +9,7 @@ Passionate computer scientist specialized in linux, cloud technologies, infrastr
 #### Linux Systems Reference and Bash Scripting
 Explore my collection of Linux systems references and Bash scripting techniques.
 - [sysadmin-reference](https://github.com/caetanoct/sysadmin-reference)
-- [DNS Reference Material](https://github.com/caetanoct/sysadmin-reference/blob/main/dns/dns.md)
+- [dns-reference-material](https://github.com/caetanoct/sysadmin-reference/blob/main/dns/dns.md)
   
 #### Kafka
 - [kafka-reference](https://github.com/caetanoct/kafka-reference)
@@ -25,7 +25,7 @@ Set up a MariaDB cluster with replication and high availability on Kubernetes.
 - [mariadb-cluster](https://github.com/caetanoct/mariadb-cluster)
 
 #### High Availability Private DNS Server and Cache-Only DNS Forwarder Server on AWS
-- [DNS Project](https://github.com/caetanoct/sysadmin-reference/tree/main/dns/dns-configuration)
+- [dns-project-aws](https://github.com/caetanoct/sysadmin-reference/tree/main/dns/dns-configuration)
   
 ### AI
 
